@@ -1,7 +1,6 @@
 # Python build
 .eggs/
 gradio.egg-info
-dist/
 *.pyc
 __pycache__/
 *.py[cod]

@@ -7,7 +7,7 @@
 		"emitDeclarationOnly": true,
 		"outDir": "dist",
 		"declarationMap": true,
-		"module": "es2020",
+		"module": "Node16",
 		"moduleResolution": "node16",
 		"skipDefaultLibCheck": true
 	}
